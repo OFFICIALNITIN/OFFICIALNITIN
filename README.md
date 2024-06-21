@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a 21-year-old passionate Full Stack Web develo
 
 **Others:** `DSA` `OOPs` `C++` `Pyhon`
 
-## 📈 GitHub Stats
+## 📈 Top Langs
 
-![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=OFFICIALNITIN&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OFFICIALNITIN&layout=compact)
 
 ## 📌 Pinned Repositories
 
