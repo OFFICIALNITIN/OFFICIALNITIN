@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a 21-year-old passionate Full Stack Web develo
 
 **Cloud:** `AWS` `Firebase`
 
-**Others:** `DSA` `OOPs` `C++` `Pyhon`
+**Others:** `DSA` `OOPs` `C++` `Python`
 
 ## 📈 Top Langs
 
