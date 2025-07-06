@@ -252,16 +252,3 @@ $ echo "Code quality:"
 <div align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="120" alt="Thank You GIF" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);" />
 </div>
-
-<style>
-@keyframes glow {
-  from { text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #667eea, 0 0 40px #667eea; }
-  to { text-shadow: 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #667eea, 0 0 50px #667eea; }
-}
-
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
-</style>
