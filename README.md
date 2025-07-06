@@ -1,5 +1,3 @@
-# 👋 Hi there, I'm Nitin Jangid!
-
 <div align="center">
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); padding: 30px; border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.1); margin: 20px 0; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2);">
     <h1 style="color: white; font-size: 3.5em; margin: 0; text-shadow: 0 4px 8px rgba(0,0,0,0.3); animation: glow 3s ease-in-out infinite alternate; font-weight: 700; letter-spacing: 2px;">
