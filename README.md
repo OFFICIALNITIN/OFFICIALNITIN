@@ -1,70 +1,70 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=180&section=header&text=Nitin%20Jangid&fontSize=42&fontColor=00FF41&animation=twinkling&fontAlignY=32&desc=%3E_%20Full%20Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20System%20Design&descSize=16&descAlignY=52&descColor=00FF41" width="100%" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=550&height=45&lines=%24+nitin.init()...;%24+loading+backend_engineer...;%24+deploying+microservices...;%24+ready+to+collaborate+%E2%9C%93" alt="Terminal Typing" />
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/nitin-jangid-ba771726b/">
+    <img src="https://img.shields.io/badge/LinkedIn-%2300FF41?style=flat&logo=linkedin&logoColor=black" height="28" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:dev.nitinjangid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%2300FF41?style=flat&logo=gmail&logoColor=black" height="28" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://devnitinjangidsite.tech/">
+    <img src="https://img.shields.io/badge/Portfolio-%2300FF41?style=flat&logo=googlechrome&logoColor=black" height="28" alt="Portfolio" />
+  </a>
   
-  <h1 align="center">Hi there, I'm Nitin Jangid! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  
-  <h3 align="center">Full Stack Developer 🚀 | Crafting Scalable Web Applications 💻</h3>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Next.js+%26+React+Developer;NestJS+%26+Microservices;Building+with+AWS+%26+Docker;Open+Source+Enthusiast" alt="Typing SVG" />
-
-  <br/>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/nitin-jangid-ba771726b/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:dev.nitinjangid@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://devnitin.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
 </div>
 
 ---
 
-### 🧐 About Me
+### `> system_info --fetch`
+```yaml
+user       : nitin_jangid
+role       : Software Engineer Intern @ Roxiler Systems
+location   : Pune, India
+passions   : ["Scalable Backends", "System Design", "Open Source"]
+current_xp : ["NestJS", "Microservices", "Docker", "AWS"]
+status     : "Turning coffee into robust code ☕"
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <br/>
-      ```typescript
-const nitin_jangid = {
-    role: "Software Engineer Intern @ Roxiler Systems",
-    main_stack: ["NestJS", "TypeScript", "React", "Docker", "AWS"],
-    currently_learning: ["System Design", "Microservices"],
-    fun_fact: "I treat bugs as features until fixed 🐛",
-    say_hi: () => console.log("Let's build something scalable!")
-};
+# Contact
+email      : dev.nitinjangid@gmail.com
+portfolio  : devnitinjangidsite.tech
 ```
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=OFFICIALNITIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=OFFICIALNITIN&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
 
 ---
 
-### 🛠️ Tech Stack
+### `> neofetch --stats`
 
 <div align="center">
-  
-| **Category** | **Skills** |
-| :---: | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,mongodb,postgres" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,aws,git,postman,linux,vscode" /> |
+  <img src="https://github-readme-stats.vercel.app/api?username=OFFICIALNITIN&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&icon_color=00FF41&title_color=00FF41&text_color=00FF41&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OFFICIALNITIN&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=238636" alt="GitHub Streak" width="48%" />
+</div>
+
+---
+
+### `> ls ./tech_stack/`
+
+<div align="center">
+
+#### `📂 frontend/`
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css&theme=dark" />
+
+#### `📂 backend/`
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,mongodb,postgres&theme=dark" />
+
+#### `📂 devops/`
+<img src="https://skillicons.dev/icons?i=docker,aws,git,postman,linux,vscode&theme=dark" />
 
 </div>
 
 ---
 
-### 🐍 My Contributions
+### `> cat /var/log/contributions.log`
 
 <div align="center">
   <picture>
@@ -76,49 +76,26 @@ const nitin_jangid = {
 
 ---
 
-### 🚀 Featured Projects
+### `> ls ~/projects/ --featured`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 MockMate - AI Interview Platform</h3>
-      <div align="center">
-        <a href="https://github.com/OFFICIALNITIN/mockmate">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=OFFICIALNITIN&repo=mockmate&theme=tokyonight&hide_border=true" alt="MockMate Repo" />
-        </a>
-      </div>
-      <p align="center">
-        Real-time mock interview platform built with <b>MERN, WebRTC, and Google Gemini AI</b>.
-        <br/>
-        <img src="https://img.shields.io/github/stars/OFFICIALNITIN/mockmate?style=social" alt="Stars" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">👶 Nutriguard - Malnutrition Tracking</h3>
-      <div align="center">
-        <a href="https://github.com/OFFICIALNITIN/nutriguard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=OFFICIALNITIN&repo=nutriguard&theme=tokyonight&hide_border=true" alt="Nutriguard Repo" />
-        </a>
-      </div>
-      <p align="center">
-        Role-based platform with <b>Mapbox and AI Chatbot</b> tracking child malnutrition data.
-        <br/>
-        <img src="https://img.shields.io/github/stars/OFFICIALNITIN/nutriguard?style=social" alt="Stars" />
-      </p>
-    </td>
-  </tr>
-</table>
+| <a href="https://github.com/OFFICIALNITIN/mockmate">**🤖 MockMate - AI Interview Platform**</a> | <a href="https://github.com/OFFICIALNITIN/nutriguard">**👶 Nutriguard - Malnutrition Tracking**</a> |
+| :--- | :--- |
+| > Real-time mock interview platform powered by Google Gemini AI, featuring live video & speech analysis. | > Full-stack platform for tracking child malnutrition data with geospatial analysis and AI chatbot support. |
+| **Stack:** `MERN` `WebRTC` `Gemini AI` | **Stack:** `React` `Node.js` `Mapbox` |
+| [![GitHub Stars](https://img.shields.io/github/stars/OFFICIALNITIN/mockmate?style=social)](https://github.com/OFFICIALNITIN/mockmate) | [![GitHub Stars](https://img.shields.io/github/stars/OFFICIALNITIN/nutriguard?style=social)](https://github.com/OFFICIALNITIN/nutriguard) |
 
 ---
 
-### 📊 Language Analytics
+### `> wc -l languages.log`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFICIALNITIN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFICIALNITIN&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
+---
+
 <div align="center">
-  <br/>
-  <h3> Visitors </h3>
-  <img src="https://komarev.com/ghpvc/?username=OFFICIALNITIN&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=OFFICIALNITIN&style=flat-square&color=00FF41&label=visitors@nitin:~$" alt="Profile Views" />
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=100&section=footer" width="100%" />
 </div>
